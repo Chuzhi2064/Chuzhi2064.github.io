@@ -6,7 +6,7 @@
 name: 律之侠
 
 # Short bio or description (displayed in the header)
-description: 律之侠的个人自留博客
+description: 个人自留博客
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/128964774?s=400&u=6e82e64091bafa486ff34dda59936ada658f4370&v=4
@@ -18,15 +18,15 @@ avatar: https://avatars.githubusercontent.com/u/128964774?s=400&u=6e82e64091bafa
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:cs19841141@gmail.com
+  facebook:cs19841141@gmail.com
   flickr:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: cs19841141@gmail.com
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
